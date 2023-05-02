@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "title": "Audi R8",
+    "description": "Esta nueva gama de audi es deportiva",
+    "price": 80000,
+    "thumbnail": "sin imagen",
+    "stock": 10
+  },
+  {
+    "id": 1,
+    "title": "Audi R7",
+    "description": "Este auto que creo la marca audi fue copiado por bmw",
+    "price": 8000,
+    "thumbnail": "sin imagen",
+    "stock": 1
+  },
+  {
+    "id": 2,
+    "title": "Audi R6",
+    "description": "Esta nueva gama de audi es d",
+    "price": 800,
+    "thumbnail": "sin imagen",
+    "stock": 15
+  },
+  {
+    "id": 3,
+    "title": "Audi R5",
+    "description": "Esta nueva gama de audi es d",
+    "price": 800,
+    "thumbnail": "sin imagen",
+    "stock": 15
+  },
+  {
+    "id": 7,
+    "title": "Audi R9",
+    "description": "Esta nueva gama de audi es deportiva",
+    "price": 80000,
+    "thumbnail": "sin imagen",
+    "stock": 10
+  }
+]
